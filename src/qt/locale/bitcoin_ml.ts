@@ -393,7 +393,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">പ്രോക്സി ആണ്&lt;b&gt;പ്രവർത്തനക്ഷമമാക്കി&lt;/b&gt;:%1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">ഒരു ബിറ്റ്‌കോയിൻ വിലാസത്തിലേക് പണം അയക്കുക </translation>
     </message>
     <message>

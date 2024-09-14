@@ -438,7 +438,7 @@ Registrarse solo es posible utilizando  una direccion tipo "Legal"</translation>
         <translation type="unfinished">Actividad de red deshabilitada.</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Enviar monedas a una dirección Bitcoin</translation>
     </message>
     <message>

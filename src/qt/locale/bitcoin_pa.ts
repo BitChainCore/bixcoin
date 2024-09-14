@@ -282,7 +282,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">ਬਟੂਆ: </translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">ਬਿਟਕੋਇਨ ਪਤੇ 'ਤੇ ਸਿੱਕੇ ਭੇਜੋ</translation>
     </message>
     <message>

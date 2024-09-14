@@ -394,7 +394,7 @@ Ní féidir síniú ach le seoltaí 'oidhreachta'.</translation>
         <translation type="unfinished">Seachfhreastalaí &lt;b&gt;cumasaithe&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Seol boinn chuig seoladh Bitcoin</translation>
     </message>
     <message>

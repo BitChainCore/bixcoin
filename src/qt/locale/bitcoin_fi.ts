@@ -445,7 +445,7 @@ Allekirjoitus on mahdollista vain 'legacy'-tyyppisillä osoitteilla.</translatio
         <translation type="unfinished">Välipalvelin on &lt;b&gt;käytössä&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Lähetä kolikoita Bitcoin-osoitteeseen</translation>
     </message>
     <message>

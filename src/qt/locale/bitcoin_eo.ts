@@ -362,7 +362,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">Retaj agadoj malebliĝas.</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Sendi monon al Bitmon-adreso</translation>
     </message>
     <message>

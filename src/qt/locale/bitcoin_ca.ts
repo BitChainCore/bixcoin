@@ -459,7 +459,7 @@ Només és possible firmar amb adreces del tipus "legacy".</translation>
         <translation type="unfinished">El servidor proxy està &lt;b&gt;activat&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Envia monedes a una adreça Bitcoin</translation>
     </message>
     <message>

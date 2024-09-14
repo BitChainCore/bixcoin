@@ -359,7 +359,7 @@
         <translation type="unfinished">Proxy là &lt;b&gt; cho phép &lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Gửi coin đến một địa chỉ Bitcoin</translation>
     </message>
     <message>

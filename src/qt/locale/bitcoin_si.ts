@@ -347,7 +347,7 @@
         <translation type="unfinished">ජාලයේ ක්‍රියාකාරකම අබල කර ඇත.</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">බිට්කොයින් ලිපිනයකට කාසි යවන්න</translation>
     </message>
     <message>

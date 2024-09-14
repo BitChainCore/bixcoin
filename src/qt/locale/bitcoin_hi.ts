@@ -397,7 +397,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">प्रॉक्सी &lt;b&gt;अक्षम&lt;/b&gt; है: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">बिटकॉइन पते पर कॉइन्स भेजें</translation>
     </message>
     <message>

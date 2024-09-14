@@ -393,7 +393,7 @@ Daxil olma, yalnız 'qanuni' tipli ünvanlar ilə mümkündür.</translation>
         <translation type="unfinished">Proksi &lt;b&gt;işə salınıb&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Pulları Bitcoin ünvanına göndərin</translation>
     </message>
     <message>

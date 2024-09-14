@@ -271,7 +271,7 @@
         <translation type="unfinished">Creare novum cassidilium</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Mitte nummos ad inscriptionem Bitcoin</translation>
     </message>
     <message>

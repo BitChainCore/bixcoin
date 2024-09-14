@@ -501,7 +501,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">代理伺服器&lt;b&gt;已經啟用&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">發送幣給一個比特幣地址</translation>
     </message>
     <message>

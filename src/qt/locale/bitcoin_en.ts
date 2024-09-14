@@ -439,8 +439,8 @@ Signing is only possible with addresses of the type &apos;legacy&apos;.</source>
     </message>
     <message>
         <location line="-1199"/>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Send coins to a Bitcoin address</translation>
+        <source>Send coins to a Bixcoin address</source>
+        <translation>Send coins to a Bixcoin address</translation>
     </message>
     <message>
         <location line="+53"/>

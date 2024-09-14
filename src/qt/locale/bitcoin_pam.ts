@@ -242,7 +242,7 @@
         <translation type="unfinished">Magpakit impormasion tungkul king Qt</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Magpadalang barya king Bitcoin address</translation>
     </message>
     <message>

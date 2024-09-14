@@ -396,7 +396,7 @@
         <translation type="unfinished">नेटवर्क गतिविधि अशक्त</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">बिटकोइन ठेगानामा सिक्का पठाउनुहोस्</translation>
     </message>
     <message>

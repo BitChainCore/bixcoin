@@ -382,7 +382,7 @@ Kutia sahihi kunawezekana tu kwa anwani za aina ya 'urithi'.</translation>
         <translation type="unfinished">Proxy imeamilishwa: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Tuma sarafu kwa anwani ya Bitcoin</translation>
     </message>
     <message>

@@ -380,7 +380,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">Na-disable ang aktibidad ng ♦network♦</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Magpadala ng mga ♦coin♦ sa ♦address♦ ng Bitcoin</translation>
     </message>
     <message>

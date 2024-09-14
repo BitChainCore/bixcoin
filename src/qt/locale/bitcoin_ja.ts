@@ -486,7 +486,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">プロキシは&lt;b&gt;有効&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Bitcoin アドレスにコインを送る</translation>
     </message>
     <message>

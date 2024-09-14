@@ -466,7 +466,7 @@ Solo es posible firmar con direcciones de tipo legacy.</translation>
         <translation type="unfinished">Proxy &lt;b&gt;habilitado&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Enviar monedas a una dirección de Bitcoin</translation>
     </message>
     <message>

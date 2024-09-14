@@ -433,7 +433,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">ქსელური აქტივობა გათიშულია.</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">მონეტების გაგზავნა Bitcoin-მისამართზე</translation>
     </message>
     <message>

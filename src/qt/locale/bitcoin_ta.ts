@@ -411,7 +411,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">ப்ராக்ஸி இயக்கப்பட்டது: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">ஒரு விக்கிபீடியா முகவரிக்கு நாணயங்களை அனுப்பவும்</translation>
     </message>
     <message>

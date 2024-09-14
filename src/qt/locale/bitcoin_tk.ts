@@ -468,7 +468,7 @@ Diňe "miras" görnüşli salgylar bilen gol çekmek mümkin.</translation>
         <translation type="unfinished">Proksi &lt;b&gt;işleýär&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Bitkoin salgysyna teňňeleri iber</translation>
     </message>
     <message>

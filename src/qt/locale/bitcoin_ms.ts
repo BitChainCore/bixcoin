@@ -281,7 +281,7 @@ Alihkan fail data ke dalam tab semasa</translation>
         <translation type="unfinished">Aktiviti rangkaian dilumpuhkan</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Menghantar koin kepada alamat Bitcoin</translation>
     </message>
     <message>

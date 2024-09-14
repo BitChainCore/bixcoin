@@ -490,7 +490,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">프록시가 &lt;b&gt;활성화&lt;/b&gt; 되었습니다: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">코인을 비트코인 주소로 전송합니다.</translation>
     </message>
     <message>

@@ -327,7 +327,7 @@
         <translation type="unfinished">Gweithgaredd rhwydwaith wedi anablu.</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Anfon arian i gyfeiriad Bitcoin</translation>
     </message>
     <message>

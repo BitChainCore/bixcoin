@@ -368,7 +368,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">Ang proxy ay &lt;b&gt;in-inable&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Magpadala ng coins sa isang Bitcoin address</translation>
     </message>
     <message>

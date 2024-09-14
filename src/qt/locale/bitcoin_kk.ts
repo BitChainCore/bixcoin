@@ -357,7 +357,7 @@
         <translation type="unfinished">Прокси &lt;b&gt;қосулы&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Bitcoin мекенжайына тиын жіберу</translation>
     </message>
     <message>

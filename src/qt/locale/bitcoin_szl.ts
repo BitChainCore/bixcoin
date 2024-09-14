@@ -321,7 +321,7 @@
         <translation type="unfinished">Proxy je &lt;b&gt;zapuszczone&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Poślij mōnety na adresã Bitcoin</translation>
     </message>
     <message>

@@ -367,7 +367,7 @@ Signing is only possible with addresses of the type 'legacy'.</source>
         <translation type="unfinished">Rahakott:</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Saada münte Bitcoini aadressile</translation>
     </message>
     <message>

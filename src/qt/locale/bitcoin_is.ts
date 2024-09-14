@@ -301,7 +301,7 @@
         <translation type="unfinished">Slökkt á netumferð.</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Senda mynt í Bitcoin færslugildi</translation>
     </message>
     <message>

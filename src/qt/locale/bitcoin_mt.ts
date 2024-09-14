@@ -409,7 +409,7 @@ L-iffirmar huwa possibbli biss b'indirizzi tat-tip 'legacy'.</translation>
         <translation type="unfinished">Proxy huwa &lt;b&gt;attivat&lt;/b&gt;:%1</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Ibgħat muniti f'indirizz Bitcoin</translation>
     </message>
     <message>

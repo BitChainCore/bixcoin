@@ -303,7 +303,7 @@
         <translation type="unfinished">Maciņš:</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Bixcoin address</source>
         <translation type="unfinished">Nosūtīt bitkoinus uz Bitcoin adresi</translation>
     </message>
     <message>
